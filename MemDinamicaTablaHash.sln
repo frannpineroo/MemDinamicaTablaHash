@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemDinamicaTablaHash", "MemDinamicaTablaHash\MemDinamicaTablaHash.csproj", "{996F54E3-AA4E-4D61-B935-94E8CC29D429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996F54E3-AA4E-4D61-B935-94E8CC29D429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996F54E3-AA4E-4D61-B935-94E8CC29D429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996F54E3-AA4E-4D61-B935-94E8CC29D429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996F54E3-AA4E-4D61-B935-94E8CC29D429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F73FCEB-B239-4D03-8084-F958E80BE861}
+	EndGlobalSection
+EndGlobal
