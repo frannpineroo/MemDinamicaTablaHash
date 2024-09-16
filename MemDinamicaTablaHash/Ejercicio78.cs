@@ -13,7 +13,7 @@ namespace MemDinamicaTablaHash
             diccio.Add("How is your name","¿Cómo te llamas?");
 
             string texto = "Hola. Me llamo Fran, ¿Cómo te llamas?";
-            string[] partes = texto.Split(',');
+            string[] partes = texto.Split('.', ',');
 
             foreach (string parte in partes)
             {
